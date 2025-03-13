@@ -1,4 +1,6 @@
-# Optimización de una Base de Datos de Ventas
+# PagArce: Optimización de una Base de Datos de Ventas
+
+![PagArce](images/PagArce_ilustracion.png)
 
 Una tienda en línea ha notado que su sistema de gestión de pedidos se ha vuelto lento,
 especialmente al consultar el historial de compras de los clientes y al actualizar el inventario
